@@ -208,3 +208,5 @@ __marimo__/
 
 __MACOSX/
 .DS_Store
+
+.ipynb_checkpoints/
